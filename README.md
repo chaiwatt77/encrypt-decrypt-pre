@@ -20,6 +20,7 @@ npm run start
 Once running, you can explore the API via Swagger UI:
 
 👉 http://localhost:3000/api-docs
+
 3. Run Tests
 ```
 npm run test
